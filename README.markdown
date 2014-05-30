@@ -14,7 +14,7 @@
 -------------
 
 - [**1.安裝 Debian 7**](docs/01安裝 Debian 7.markdown)
-- [**2.安裝 Eclipse**](docs/02安裝 Eclipse.markdown)
+- [**2.安裝 Eclipse + NDK**](docs/02安裝 Eclipse+NDK.markdown)
 - [**3.下載 FFMPEG RESOURCES**](docs/03下載 FFMPEG RESOURCES.markdown)
 - [**4.設置 Configure**](docs/04設置 Configure.markdown)
 - [**5.建置 build_android.sh**](docs/05建置 build_android.sh.markdown)

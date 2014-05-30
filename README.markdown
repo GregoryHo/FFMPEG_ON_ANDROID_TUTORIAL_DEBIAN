@@ -13,13 +13,13 @@ How to build FFMPEG on ANDROID?
 Step by step
 -------------
 
-- [**安裝 Debian 7**]
-- [**安裝 Eclipse**]
-- [**下載FFMPEG RESOURCES**]
-- [**設置Configure**]
-- [**建置build_android.sh**]
-- [**使用編譯好的library**]
-- [**簡單的範例**]
+- [**1.安裝 Debian 7**](docs/1.安裝 Debian 7.markdown)
+- [**2.安裝 Eclipse**](docs/2.安裝 Eclipse.markdown)
+- [**3.下載 FFMPEG RESOURCES**](docs/3.下載 FFMPEG RESOURCES.markdown)
+- [**4.設置 Configure**](docs/4.設置 Configure.markdown)
+- [**5.建置build_android.sh**](docs/5.建置build_android.sh.markdown)
+- [**6.使用編譯好的library**](docs/6.使用編譯好的library.markdown)
+- [**7.簡單的範例**](docs/7.簡單的範例.markdown)
 
 與我聯繫
 -----------

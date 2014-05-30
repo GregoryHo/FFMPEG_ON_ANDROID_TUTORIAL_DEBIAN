@@ -16,9 +16,9 @@
 **其他章節**
 ---------------
 
-- [**2.安裝 Elipse**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/02安裝 Ecliplse)
-- [**3.下載 FFMPEG RESOURCES**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/03下載 FFMPEG RESOURCES.markdown)
-- [**4.設置 Configure**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/04設置 Configure.markdown)
-- [**5.建置 build_android.sh**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/05建置 build_android.sh.markdown)
-- [**6.使用編譯好的library**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/06使用編譯好的library.markdown)
-- [**7.簡單的範例**](FFMPEG_ON_ANDROID_TUTORIAL_DEBIAN/docs/07簡單的範例.markdown)
+- [**2.安裝 Elipse**](master/docs/2.%E5%AE%89%E8%A3%9D%20Eclipse.markdown)
+- [**3.下載 FFMPEG RESOURCES**](master/docs/03下載 FFMPEG RESOURCES.markdown)
+- [**4.設置 Configure**](master/docs/04設置 Configure.markdown)
+- [**5.建置 build_android.sh**](master/docs/05建置 build_android.sh.markdown)
+- [**6.使用編譯好的library**](master/docs/06使用編譯好的library.markdown)
+- [**7.簡單的範例**](master/docs/07簡單的範例.markdown)

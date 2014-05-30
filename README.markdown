@@ -1,7 +1,7 @@
 How to build FFMPEG on ANDROID?
 =============================
 
-Author:¦ó«a»ö(Gregory Ho)
+Author:¦ó«a»ö(Gregory Ho(https://www.facebook.com/GregoryHoo))
 
 ![GIT](http://www.ffmpeg.org/ffmpeg-logo.png)
 
@@ -12,4 +12,4 @@ Author:¦ó«a»ö(Gregory Ho)
 
 Step by step
 ------------------
-*[¦w¸Ë Debian 7]
+* [¦w¸Ë Debian 7]

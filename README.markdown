@@ -1,7 +1,7 @@
 How to build FFMPEG on ANDROID?
 =============================
 
-Author:¦ó«a»ö(Gregory Ho(https://www.facebook.com/GregoryHoo))
+* [Author:¦ó«a»ö(Gregory Ho)](https://www.facebook.com/GregoryHoo)
 
 ![GIT](http://www.ffmpeg.org/ffmpeg-logo.png)
 

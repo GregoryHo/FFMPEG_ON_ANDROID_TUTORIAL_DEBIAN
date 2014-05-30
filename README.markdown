@@ -17,7 +17,7 @@
 - [**2.安裝 Eclipse**](docs/02安裝 Eclipse.markdown)
 - [**3.下載 FFMPEG RESOURCES**](docs/03下載 FFMPEG RESOURCES.markdown)
 - [**4.設置 Configure**](docs/04設置 Configure.markdown)
-- [**5.建置build_android.sh**](docs/05建置build_android.sh.markdown)
+- [**5.建置build_android.sh**](docs/05建置 build_android.sh.markdown)
 - [**6.使用編譯好的library**](docs/06使用編譯好的library.markdown)
 - [**7.簡單的範例**](docs/07簡單的範例.markdown)
 

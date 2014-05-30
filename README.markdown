@@ -8,7 +8,7 @@ How to build FFMPEG on ANDROID?
 文章簡介
 --------
 
-在**碩士時期**，因為指導教授的要求，將同學開發在WINDOWS平台的Live stream程式移植到**Android**，主要記錄自己在**Build FFMPEG**的過程。
+**在碩士時期，因為指導教授的要求，將同學開發在WINDOWS平台的Live stream程式移植到Android，主要記錄自己在Build FFMPEG的過程。**
 
 Step by step
 -------------
